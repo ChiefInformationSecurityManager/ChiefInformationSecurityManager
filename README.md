@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href=&quothttps://github.com/ghost1372&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=ChiefInformationSecurityManager
+_icons=true&count_private=true&include_all_commits=true&quot /></a>
+
+<a href=&quothttps://github.com/ghost1372&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ChiefInformationSecurityManager
+&theme=dracula />
+</a>
